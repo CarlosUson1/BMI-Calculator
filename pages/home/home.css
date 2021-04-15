@@ -1,0 +1,10 @@
+ion-content {
+  background: linear-gradient(to bottom, #355C7D, #c06c84);
+}
+h1{
+  color: #7BF1A8
+  }
+p{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  text-align: justify;
+}
